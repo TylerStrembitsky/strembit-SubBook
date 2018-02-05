@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">strembit-SubBook</string>
+
+    <string-array name="subscriptions">
+        <item>Test Subscription</item>
+        <item>Test Subscription 2</item>
+        <item>Test Subscription 3</item>
+        <item>Test Subscription 4</item>
+        <item>Test Subscription 5</item>
+        <item>Test Subscription 6</item>
+        <item>Test Subscription 7</item>
+        <item>Test Subscription 8</item>
+        <item>Test Subscription 9</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$10.99</item>
+        <item>$22.99</item>
+        <item>$10.99</item>
+        <item>$22.99</item>
+        <item>$10.99</item>
+        <item>$22.99</item>
+        <item>$10.99</item>
+        <item>$22.99</item>
+        <item>$10.99</item>
+    </string-array>
+
+    <string-array name="dates">
+        <item>04/22/17</item>
+        <item>02/14/17</item>
+        <item>04/22/17</item>
+        <item>02/14/17</item>
+        <item>04/22/17</item>
+        <item>02/14/17</item>
+        <item>04/22/17</item>
+        <item>02/14/17</item>
+        <item>04/22/17</item>
+    </string-array>
+
+    <string-array name="comments">
+        <item>Nice comment</item>
+        <item>Cool comment</item>
+        <item>Nice comment</item>
+        <item>Cool comment</item>
+        <item>Nice comment</item>
+        <item>Cool comment</item>
+        <item>Nice comment</item>
+        <item>Cool comment</item>
+        <item>Nice comment</item>
+    </string-array>
+
+</resources>

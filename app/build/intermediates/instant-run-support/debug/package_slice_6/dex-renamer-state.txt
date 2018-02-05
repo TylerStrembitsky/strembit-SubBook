@@ -1,0 +1,4 @@
+#Mon Feb 05 13:25:12 MST 2018
+base.0=/Users/tylerstrembitsky/Dropbox/strembit-SubBook/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
