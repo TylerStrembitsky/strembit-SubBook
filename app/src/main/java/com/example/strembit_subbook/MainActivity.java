@@ -210,6 +210,11 @@ public class MainActivity extends AppCompatActivity {
      * URL: https://github.com/joshua2ua/lonelyTwitter
      * Date accessed: 29/01/2018
      * Author: Joshua Charles Campbell
+     *
+     * Joshua Charles Campbell's code references:
+     * URL: https://stackoverflow.com/questions/12384064/gson-convert-from-js
+     * Date accessed: 29/01/2018
+     * Author: Alexandre Grison
      */
     private void saveData() {
         try {
